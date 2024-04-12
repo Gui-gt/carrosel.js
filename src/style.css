@@ -9,5 +9,8 @@
     min-height: 100vh;
     align-items: center;
     justify-content: center;
-    
+    gap: 1rem;
+}
+img{
+    width: 200px;
 }
