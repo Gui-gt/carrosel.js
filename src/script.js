@@ -13,3 +13,4 @@ function showSlider () {
 }
 
 btnnext.addEventListener('click' , () => console.log('clicado'))
+btnprev.addEventListener('click' , () => console.log('clicado'))
