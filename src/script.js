@@ -24,7 +24,7 @@ function nextSlider() {
 function prevSlider() {
     hideslider()
     if(currentSlide === 0){
-        currentSlide = slider.length + 1
+        currentSlide = slider.length - 1
     }else{
         currentSlide--
     }
